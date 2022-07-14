@@ -22,7 +22,14 @@
       "publisher": "Microsoft",
       "name": "Base Application",
       "version": "15.0.0.0"
+    },
+    {
+      "id": "c5d13bfa-a124-45a9-81d2-964f9d0b0079",
+      "publisher": "ITBASEN",
+      "name": "UNI_BC01",
+      "version": "1.0.0.0"
     }
+
     
   
   ],
